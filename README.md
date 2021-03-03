@@ -1,4 +1,4 @@
 # IPv6_IOC_Collection
 IPv6_IOC_Collection (malware use)
 
-### [phishing_IPv6](https://github.com/blackorbird/IPv6_IOC_Collection/blob/main/phishing_IPv6.txt)
+### [IOC_IPv6_ForTest](https://github.com/blackorbird/IPv6_IOC_Collection/blob/main/IOC_IPv6_ForTest.txt)
